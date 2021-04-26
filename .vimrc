@@ -6,3 +6,4 @@ set list
 set autoindent
 set foldmethod=syntax
 set foldnestmax=1
+set hlsearch
